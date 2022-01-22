@@ -1,4 +1,4 @@
-#Quizz App
+# Quizz App
 
 App was created with using TypeScript and React. 
 
